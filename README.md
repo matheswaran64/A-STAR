@@ -158,8 +158,9 @@ J 0 <br>
 <hr>
 Path found: ['A', 'F', 'G', 'I', 'J']
 
-<h2>PROGRAM:</h2>
-```python
+### PROGRAM:
+
+```
 #define fuction to return neighbor and its distance
 #from the passed node
 def get_neighbors(v):
@@ -196,9 +197,8 @@ print(H_dist)
 Graph_nodes=graph
 print(graph)
 aStarAlgo('S', 'G')
-```python
+```
 
-<hr>
 <h2>Sample Graph II</h2>
 <hr>
 
@@ -223,7 +223,7 @@ G 0 <br>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
+<hr>
 
 <h2>RESULT:</h2>
-
 Implementing A * Search algorithm for a Graph using Python 3. is executed successfully.
