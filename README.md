@@ -51,7 +51,7 @@
 ``````
 <h2>PROGRAM:</h2>
 
-```
+```python
 from collections import defaultdict
 H_dist ={}
 def aStarAlgo(start_node, stop_node):
