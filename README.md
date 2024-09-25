@@ -196,7 +196,7 @@ print(H_dist)
 Graph_nodes=graph
 print(graph)
 aStarAlgo('S', 'G')
-```
+```python
 
 <hr>
 <h2>Sample Graph II</h2>
